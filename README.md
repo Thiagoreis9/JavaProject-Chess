@@ -7,7 +7,7 @@ Objetivo geral:
 
 System design
 
-https://github.com/acenelio/chess##system##design
+https://github.com/acenelio/chess-system-design
 Creating project and git repository
 
 Checklist:
@@ -21,7 +21,7 @@ Checklist:
 ## Open a terminal in project folder, and perform the following commands:
 git init
 
-git remote add origin https://github.com/acenelio/chess##system##java.git
+git remote add origin https://github.com/acenelio/chess-system-java.git
 
 git pull origin master
 
